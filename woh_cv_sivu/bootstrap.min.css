@@ -37,3 +37,7 @@ button:active{
     box-shadow: 0 2px 0 #006599;
     transform: translateY(3px);
 }
+
+h2{
+    font-style: italic;
+}
